@@ -1,0 +1,2 @@
+Prefix plugins/Social/example/
+Plugin Social inputfile parameters.social.txt outputfile socialclubs.txt
